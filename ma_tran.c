@@ -10,6 +10,14 @@ void InputMatrixRC(float *diMatrix); // Input Row number or Column number of a m
 int main()
 {   
     asdasd
+    asdj0njd3132
+    21
+    231
+
+    5
+    46
+    12
+    
     asdasdas
     dasdasdasdasd
     checkMulMatrixAAndMatrixB;
