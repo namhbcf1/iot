@@ -9,6 +9,10 @@ void InputMatrixRC(float *diMatrix); // Input Row number or Column number of a m
 
 int main()
 {   
+    asdasd
+    asdasdas
+    dasdasdasdasd
+    checkMulMatrixAAndMatrixB;
     printf("hi");
     int i,j,k;
     float matrixA [100];
