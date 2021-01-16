@@ -17,10 +17,11 @@ int main()
     5
     46
     12
-    
     asdasdas
     dasdasdasdasd
     checkMulMatrixAAndMatrixB;
+    askdakjdj;
+    15543554
     printf("hi");
     int i,j,k;
     float matrixA [100];
