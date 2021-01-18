@@ -8,7 +8,7 @@ void NhanMaTran(float mt1[], float mt2[], int row1, int col1, int row2, int col2
 void InputMatrixRC(float *diMatrix); // Input Row number or Column number of a matrix
 
 int main()
-{   
+{   1221212
     asdasd
     asdasdas
     dasdasdasdasd
