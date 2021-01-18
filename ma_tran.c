@@ -8,7 +8,8 @@ void NhanMaTran(float mt1[], float mt2[], int row1, int col1, int row2, int col2
 void InputMatrixRC(float *diMatrix); // Input Row number or Column number of a matrix
 
 int main()
-{   printf("hi");
+{   
+    printf("hi");
     int i,j,k;
     float matrixA [100];
     float matrixB [100];
